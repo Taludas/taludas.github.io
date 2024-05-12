@@ -1,0 +1,15 @@
+## Credits
+- Dem **Anno 2205 Team** bei Ubisoft Mainz für die Erstellung eines fantastischen Spiels zum Modden!
+- **Annothek** (Autor der Anno 2205 Revolutions Mod): Mit seiner Erlaubnis verwendet diese Mod einige seiner Zier-/Militärgebäude, seine kleinen öffentlichen Gebäude und einige Ideen für neue Sektoreigenschaften für die gemäßigte Region
+- **Aktive Playtester:**
+  - 8wayz
+  - AnnoEffekt
+  - DuxVitae
+  - Ionovia
+  - Kurila
+  - Taubenangriff
+  - The-Rebuilder
+  - Wiesl
+- **Monatliche Ko-Fi-Unterstützer:**
+  - The-Rebuilder
+  - Nayumi

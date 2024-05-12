@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Taludas' Anno Mods</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta name="viewport"
+    content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+  <meta name="keywords" content="doc,docs,documentation,gitbook,creator,generator,github,jekyll,github-pages">
+  <meta name="description" content="A website about Taludas' Anno Mods.">
+  <meta name="viewport"
+    content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+  <link rel="stylesheet" href="_media/dark.css" />
+  <link rel="stylesheet" href="_media/toggle_style.css" />
+  <!-- ToC -->
+  <link rel="stylesheet" href="_media/toc_style.css">
+
+</head>
+
+<body>
+  <div id="app">Loading ...</div>
+  <script>
+    //dark-light theme switch and colour setup
+    window.$docsify = {
+      themeColor: "#F37313",
+      darkMode: {
+        dark: {
+          background: "#3F3F3F",
+          toggleBtnBg: "#34495e",
+          textColor: "#EAEAEA"
+        },
+        light: {
+          background: "white",
+          toggleBtnBg: "var(--theme-color)",
+          textColor: "black"
+        }
+      },
+
+
+      //cover-logo-etc
+      coverpage: ['/', '/en/', '/de/'],
+      name: 'Anno Mods by Taludas',
+      repo: 'https://github.com/Taludas',
+      logo: 'logo_tiny.png',
+      auto2top: true,
+      nativeEmoji: true,
+
+      //footer
+      loadFooter: '_footer.md',
+
+      //search
+      search: 'auto',
+      search: {
+        paths: 'auto',
+        noData: {
+          '/': 'No Results',
+          '/en/': 'No Results',
+          '/de/': 'Keine Ergebnisse',
+        },
+        placeholder: 'Type to search',
+        placeholder: {
+          '/': 'Search',
+          '/en/': 'Search',
+          '/de/': 'Suchen',
+        }
+      },
+
+      //navbar
+      loadNavbar: true,
+      //SideBar
+      loadSidebar: true,
+      //Plugin Configuration
+      //sidebar-collapse
+      sidebarDisplayLevel: 2,
+
+      //scrolltotop
+      scrollToTop: {
+        auto: true,
+        text: 'Top',
+        right: 15,
+        bottom: 15,
+        offset: 500
+      },
+
+      toc: {
+        tocMaxLevel: 3,
+        target: 'h1, h2, h3, h4, h5, h6',
+        ignoreHeaders:  ['About me','Über mich']
+      },
+
+    },
+      //copy code
+      window.$docsify.copyCode = {
+        buttonText: {
+          '/': 'Copy to clipboard',
+          '/en/': 'Copy to clipboard',
+          '/de/': 'Klicken zum Kopieren',
+        },
+        errorText: {
+          '/': 'Error',
+          '/en/': 'Error',
+          '/de/': 'Fehler',
+        },
+        successText: {
+          '/': 'Copied to clipboard',
+          '/en/': 'Copied to clipboard',
+          '/de/': 'In die Zwischenablage kopiert',
+        }
+      }
+  </script>
+
+  <!-- Themes -->
+  <script src="//cdn.jsdelivr.net/npm/docsify-dark-mode@latest/dist/index.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+
+  <!-- Footer -->
+  <script src="//cdn.jsdelivr.net/npm/@alertbox/docsify-footer/dist/docsify-footer.min.js"></script>
+
+  <!-- docsify-ko-fi -->
+  <script src="https://cdn.jsdelivr.net/npm/docsify-ko-fi"></script>
+
+  <!-- Sidebar -->
+  <script src="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script>
+
+  <!-- Search -->
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
+
+  <!-- namespacing -->
+  <script src="https://unpkg.com/docsify-namespaced"></script>
+
+  <!-- copy code -->
+  <script src="https://unpkg.com/docsify-copy-code@2"></script>
+
+  <!-- Scroll to top -->
+  <script src="//unpkg.com/docsify-scroll-to-top/dist/docsify-scroll-to-top.min.js"></script>
+
+  <!-- ToC -->
+  <script src="https://unpkg.com/docsify-plugin-toc/dist/docsify-plugin-toc.min.js"></script>
+</body>
+
+</html>
