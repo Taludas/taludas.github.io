@@ -13,7 +13,7 @@
 - <span style='color: white;'>&#x2022; Nachhaltige Überarbeitung des Technologie-Nexus sowie der Orbitalstation</span>
 
 [Mehr erfahren](/de/Anno2205/Anno2205NewFrontiers.md)
-[Jetzt herunterladen]()
+[Jetzt herunterladen](https://github.com/Taludas/Anno2205-NewFrontiers/releases/latest/download/Anno2205_NewFrontiers.zip)
 
 <!-- background image -->
 
