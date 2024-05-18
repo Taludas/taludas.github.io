@@ -1,6 +1,5 @@
 - [Taludas' Mods - Über mich](/de/README.md)
-- Anno 2205
-  - [Anno 2205 New Frontiers](/de/Anno2205/Anno2205NewFrontiers.md)
+- [Anno 2205 New Frontiers](/de/Anno2205/Anno2205NewFrontiers.md)
   - [Installationsanweisungen](/de/Anno2205/InstallationInstructions.md)
   - [FAQ](/de/Anno2205/FAQ.md)
   - [Bekannte Bugs](/de/Anno2205/KnownIssues.md)

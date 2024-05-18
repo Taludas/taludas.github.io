@@ -5,15 +5,15 @@
 > <span style='color: var(--theme-color);'>A complete Game Overhaul to enhance game depth and balancing.</span>
 
 
-- &#x2022; New Mars Sector
-- &#x2022; New Arctic Tier 3 population
-- &#x2022; Complete overhaul of all production chains
-- &#x2022; 9 new goods and several existing ones reworked
-- &#x2022; Enhanced game depth, complexity, and region interaction
-- &#x2022; Intense Rework of the Orbital Station and Technology Nexus
+- <span style='color: white;'>&#x2022; New Mars Sector</span>
+- <span style='color: white;'>&#x2022; New Arctic Tier 3 population</span>
+- <span style='color: white;'>&#x2022; Complete overhaul of all production chains</span>
+- <span style='color: white;'>&#x2022; 9 new goods and several existing ones reworked</span>
+- <span style='color: white;'>&#x2022; Enhanced game depth, complexity and region interaction</span>
+- <span style='color: white;'>&#x2022; Intense Rework of the Orbital Station and Technology Nexus</span>
 
 [Documentation](/en/Anno2205/Anno2205NewFrontiers.md)
-[Download Release](https://drive.google.com/file/d/1ieKBR05wj9faAGwwROIFxkLX25pu4hqw/view?usp=sharing)
+[Download Release]()
 
 <!-- background image -->
 

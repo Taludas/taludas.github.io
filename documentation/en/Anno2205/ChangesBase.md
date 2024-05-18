@@ -77,6 +77,7 @@
    - Windparks produce base 125 Energy (was 50), making them more competitive in later stages of the game
    - Desalination Plant: Changed Output from 5t/min to 8t/min
    - Output of Feldspar and Cobalt Mines changed to 10 t/min (was 5 t/min)
+   - Output of Microchip Factory changed to 8 t/min (was 5 t/min)
    - Corporation headquarter can now support 50 modules (was 30)
    - Corporation headquarter modules changed Maintenance modifier to +10% (was +5%). Output modifier is now +5% for Services and +10 Urbanisation
 
@@ -89,6 +90,7 @@
 ### <img src="../../_media/icons/icon_moon_goods_round.png" height="24" /> Moon
   - Added Construct-o-Bot build material costs to all buildings on the Moon from unlocking the interorbital spaceport
   - Adjusted build material and credits costs for many Moon buildings
+  - Increased productivity output of the Cybernetics Factory main module to 150% (was 100%) while increasing maintenance, workforce and energy maintenance of the main building
 
 ### <img src="../../_media/icons/icon_arctic_custodians.png" height="24" /> Tundra
    - Residences in the Tundra now cost credits to upgrade: upgrade to Field Researcher 250

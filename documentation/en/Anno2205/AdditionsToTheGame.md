@@ -13,7 +13,7 @@
 |**Season**|**Length**|**Effect**|
 |---|---|---|
 |<img src="../../_media/icons/summer.png" height="32"/> Summer|`Assignment Time = Long` = 60 min <br> `Assignment Time = Medium` = 30 min <br> `Assignment Time = Short` = 15 min|**Solar Flares** <br> Energy Transfer Routes ineffective <br> Solar Panels have higher productivity|
-|<img src="../../_media/icons/autumn.png" height="32"/> Autumn|`Assignment Time = Long` = 30 min <br> `Assignment Time = Medium` = 15 min <br> `Assignment Time = Short` = 7:30 min|**Vulcanic Activity** <br> Mining sites closed <br> Energy Research Lab has higher productivity|
+|<img src="../../_media/icons/autumn.png" height="32"/> Autumn|`Assignment Time = Long` = 30 min <br> `Assignment Time = Medium` = 15 min <br> `Assignment Time = Short` = 7:30 min|**Vulcanic Activity** <br> Mining sites closed|
 |<img src="../../_media/icons/winter.png" height="32"/> Winter|`Assignment Time = Long` = 60 min <br> `Assignment Time = Medium` = 30 min <br> `Assignment Time = Short` = 15 min|**Dry Ice Rain** <br> Martian Synths need more Services <br> Methane Ice Extractors have higher productivity|
 |<img src="../../_media/icons/spring.png" height="32"/> Spring|`Assignment Time = Long` = 30 min <br> `Assignment Time = Medium` = 15 min <br> `Assignment Time = Short` = 7:30 min|**Dust Storms** <br> Traderoutes shout down <br> Windpark, KREEP Gatherer and Diamond Extractor have higher output|
 
@@ -115,6 +115,7 @@
 - Arctic Health Center<br>
 - Arctic Tailor<br>
 - Methane Gas Refinery<br>
+- Small Heater<br>
 - Arctic Infodrome<br>
 - Superconductor Fabrication Hall<br>
 - Neural Interfaces Factory<br>

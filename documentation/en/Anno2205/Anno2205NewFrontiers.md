@@ -1,6 +1,8 @@
 # Anno 2205 New Frontiers
 
-<img src='/_media/Anno2205NewFrontiersCover.jpg' height="540"></img>
+<iframe width="1920" height="1080"
+src="https://www.youtube.com/embed/dLBnrNJprCk">
+</iframe>
 
 The Year is 2205.
 
@@ -20,3 +22,7 @@ Explore the Red Planet, establish an autonomous AI Mars colony and begin to expl
 - [Known Issues](/en/Anno2205/KnownIssues.md)
 - [Features](/en/Anno2205/Features.md)
 - [Credits](/en/Anno2205/Credits.md)
+
+# Support
+**I have spend half a year working on this beauty. If you download and enjoy this mod, please consider heading over to my Ko-Fi page and support me in developing future projects like this.**
+<iframe id='kofiframe' src='https://ko-fi.com/taludas/?hidefeed=true&widget=true&embed=true&preview=true' style='border:none;width:100%;padding:4px;background:#3f3f3f;' height='650' title='taludas'></iframe>

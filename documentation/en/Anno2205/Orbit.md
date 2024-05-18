@@ -4,36 +4,46 @@
 - Changed starting permit count for Orbital Station to 1 workshop, 4 modules and 8 connectors (was 2/8/16) for changes in Techtree and Mars additions.
 - Add Urbanisation to all Astronaut Training Centers
 - Unlocked a second unused graphic variant for the Radiator module
-- Changed base workshop Expertise production to 25 (was 10)
-- Changed modifiers for additional Expertise gain from modules and input goods for workshops (total increase 900% up to 250 Expertise). Re-weighted the distribution of modifiers from 3,5:1 modules:goods to 2:1 modules:goods.
+- Changed base workshop Expertise production to 20 (was 10)
+- Changed modifiers for additional Expertise gain from modules and input goods for workshops (total increase 900% up to 200 Expertise). Re-weighted the distribution of modifiers from 3,5:1 modules:goods to 2:1 modules:goods.
 - Total possible workshop count is now 25 after completing all 14 quests for the Martian Research Program
+- Changed necessary amount of modules for all workshop
+- Changed Standard Temperature and Optimal Temperature for some workshops
     |**Icon**|**Module**|**Modifier**||**Icon**|**Good**|**t/min**|**Modifier**|
     |---|---|---|---|---|---|---|---|
     |<img src="../../_media/icons/A6_module_lab_agryculture.png" height="32" />|**Agriculture**||||||||
-    |<img src="../../_media/icons/A6_module_orbit_habitat.png" height="32" />|Artificial-G Lab|<div align=center>175%<div>||<img src="../../_media/icons/A6_spacefood.png" height="32" />|Sustenance Packs|<div align=center>4<div>|<div align=center>60%<div>|
-    |<img src="../../_media/icons/A6_module_orbit_solar.png" height="32" />|Solar Cells|<div align=center>100%<div>||<img src="../../_media/icons/A6_deep_water_corals.png" height="32" />|Corals|<div align=center>3<div>|<div align=center>120%<div>|
-    |<img src="../../_media/icons/A6_module_orbit_garden.png" height="32" />|Greenhouse|<div align=center>325%<div>||<img src="../../_media/icons/A6_MoonCrops.png" height="32" />|Vegetables|<div align=center>10<div>|<div align=center>120%<div>|
+    |<img src="../../_media/icons/A6_module_orbit_habitat.png" height="32" />|Artificial-G Lab|<div align=center>125%<div>||<img src="../../_media/icons/A6_spacefood.png" height="32" />|Sustenance Packs|<div align=center>5<div>|<div align=center>60%<div>|
+    |<img src="../../_media/icons/A6_module_orbit_solar.png" height="32" />|Solar Cells|<div align=center>75%<div>||<img src="../../_media/icons/A6_deep_water_corals.png" height="32" />|Corals|<div align=center>5<div>|<div align=center>120%<div>|
+    |<img src="../../_media/icons/A6_module_orbit_garden.png" height="32" />|Greenhouse|<div align=center>400%<div>||<img src="../../_media/icons/A6_nutrient_powder.png" height="32" />|Nutrient Powder|<div align=center>10<div>|<div align=center>120%<div>|
     |||||||||
     |<img src="../../_media/icons/A6_module_lab_biotech.png" height="32" />|**Biotech**|||||||
-    |<img src="../../_media/icons/A6_module_orbit_habitat.png" height="32" />|Artificial-G Lab|<div align=center>260%<div>||<img src="../../_media/icons/A6_spacefood.png" height="32" />|Sustenance Packs|<div align=center>4<div>|<div align=center>60%<div>|
-    |<img src="../../_media/icons/A6_module_orbit_solar.png" height="32" />|Solar Cells|<div align=center>170%<div>||<img src="../../_media/icons/A6_cybersynth_circuits.png" height="32" />|Cybersynth Circuits|<div align=center>1<div>|<div align=center>120%<div>|
-    |<img src="../../_media/icons/A6_module_orbit_garden.png" height="32" />|Greenhouse|<div align=center>170%<div>||<img src="../../_media/icons/A6_antibiotics.png" height="32" />|Hyaluronic Acid|<div align=center>4<div>|<div align=center>120%<div>|
+    |<img src="../../_media/icons/A6_module_orbit_habitat.png" height="32" />|Artificial-G Lab|<div align=center>375%<div>||<img src="../../_media/icons/A6_spacefood.png" height="32" />|Sustenance Packs|<div align=center>5<div>|<div align=center>60%<div>|
+    |<img src="../../_media/icons/A6_module_orbit_solar.png" height="32" />|Solar Cells|<div align=center>150%<div>||<img src="../../_media/icons/A6_cybersynth_circuits.png" height="32" />|Cybersynth Circuits|<div align=center>5<div>|<div align=center>120%<div>|
+    |<img src="../../_media/icons/A6_module_orbit_garden.png" height="32" />|Greenhouse|<div align=center>75%<div>||<img src="../../_media/icons/A6_antibiotics.png" height="32" />|Hyaluronic Acid|<div align=center>10<div>|<div align=center>120%<div>|
     |||||||||
     |<img src="../../_media/icons/A6_module_lab_hightech.png" height="32" />|**Electronics**||||||
-    |<img src="../../_media/icons/A6_module_orbit_solar.png" height="32" />|Solar Cells|<div align=center>170%<div>||<img src="../../_media/icons/A6_spacefood.png" height="32" />|Sustenance Packs|<div align=center>4<div>|<div align=center>60%<div>|
-    |<img src="../../_media/icons/A6_module_orbit_hangar.png" height="32" />|Storage Platform|<div align=center>170%<div>||<img src="../../_media/icons/A6_microchips.png" height="32" />|Microchips|<div align=center>4<div>|<div align=center>120%<div>|
-    |<img src="../../_media/icons/A6_module_orbit_recycling.png" height="32" />|Recycling Module|<div align=center>260%<div>||<img src="../../_media/icons/A6_QubitProcessors.png" height="32" />|Qubit Processors|<div align=center>2<div>|<div align=center>120%<div>|
+    |<img src="../../_media/icons/A6_module_orbit_solar.png" height="32" />|Solar Cells|<div align=center>250%<div>||<img src="../../_media/icons/A6_spacefood.png" height="32" />|Sustenance Packs|<div align=center>5<div>|<div align=center>60%<div>|
+    |<img src="../../_media/icons/A6_module_orbit_hangar.png" height="32" />|Storage Platform|<div align=center>100%<div>||<img src="../../_media/icons/A6_microchips.png" height="32" />|Microchips|<div align=center>10<div>|<div align=center>120%<div>|
+    |<img src="../../_media/icons/A6_module_orbit_recycling.png" height="32" />|Recycling Module|<div align=center>250%<div>||<img src="../../_media/icons/A6_QubitProcessors.png" height="32" />|Qubit Processors|<div align=center>5<div>|<div align=center>120%<div>|
     |||||||||
     |<img src="../../_media/icons/A6_module_lab_energy.png" height="32" />|**Energy**|||||||
-    |<img src="../../_media/icons/A6_module_orbit_habitat.png" height="32" />|Artificial-G Lab|<div align=center>75%<div>||<img src="../../_media/icons/A6_spacefood.png" height="32" />|Sustenance Packs|<div align=center>4<div>|<div align=center>60%<div>|
-    |<img src="../../_media/icons/A6_module_orbit_solar.png" height="32" />|Solar Cells|<div align=center>450%<div>||<img src="../../_media/icons/A6_FusionPowerCells.png" height="32" />|Fusion Power Cells|<div align=center>3<div>|<div align=center>120%<div>|
-    |<img src="../../_media/icons/A6_module_orbit_hangar.png" height="32" />|Storage Platform|<div align=center>75%<div>||<img src="../../_media/icons/A6_super_conductors.png" height="32" />|Superconductors|<div align=center>3<div>|<div align=center>120%<div>|
+    |<img src="../../_media/icons/A6_module_orbit_habitat.png" height="32" />|Artificial-G Lab|<div align=center>75%<div>||<img src="../../_media/icons/A6_spacefood.png" height="32" />|Sustenance Packs|<div align=center>5<div>|<div align=center>60%<div>|
+    |<img src="../../_media/icons/A6_module_orbit_solar.png" height="32" />|Solar Cells|<div align=center>450%<div>||<img src="../../_media/icons/A6_FusionPowerCells.png" height="32" />|Fusion Power Cells|<div align=center>5<div>|<div align=center>120%<div>|
+    |<img src="../../_media/icons/A6_module_orbit_hangar.png" height="32" />|Storage Platform|<div align=center>75%<div>||<img src="../../_media/icons/A6_aerogel.png" height="32" />|Aerogel|<div align=center>5<div>|<div align=center>120%<div>|
     |||||||||
     |<img src="../../_media/icons/A6_module_lab_heavy.png" height="32" />|**Heavy Industries**|||||||
-    |<img src="../../_media/icons/A6_module_orbit_solar.png" height="32" />|Solar Cells|<div align=center>170%<div>||<img src="../../_media/icons/A6_spacefood.png" height="32" />|Sustenance Packs|<div align=center>4<div>|<div align=center>60%<div>|
-    |<img src="../../_media/icons/A6_module_orbit_hangar.png" height="32" />|Storage Platform|<div align=center>260%<div>||<img src="../../_media/icons/A6_natural_gas.png" height="32" />|Natural Gas|<div align=center>3<div>|<div align=center>120%<div>|
-    |<img src="../../_media/icons/A6_module_orbit_recycling.png" height="32" />|Recycling Module|<div align=center>170%<div>||<img src="../../_media/icons/A6_rare_earth_elements.png" height="32" />|Rare Earth Elements|<div align=center>3<div>|<div align=center>120%<div>|
-
+    |<img src="../../_media/icons/A6_module_orbit_solar.png" height="32" />|Solar Cells|<div align=center>75%<div>||<img src="../../_media/icons/A6_spacefood.png" height="32" />|Sustenance Packs|<div align=center>5<div>|<div align=center>60%<div>|
+    |<img src="../../_media/icons/A6_module_orbit_hangar.png" height="32" />|Storage Platform|<div align=center>300%<div>||<img src="../../_media/icons/A6_natural_gas.png" height="32" />|Natural Gas|<div align=center>10<div>|<div align=center>120%<div>|
+    |<img src="../../_media/icons/A6_module_orbit_recycling.png" height="32" />|Recycling Module|<div align=center>225%<div>||<img src="../../_media/icons/A6_rare_earth_elements.png" height="32" />|Rare Earth Elements|<div align=center>10<div>|<div align=center>120%<div>|
+- Orbit modules now produce additional Expertise in exchange for various input goods. They cost maintenance and require additional 2 Astronauts to operate. The Buff towards the main workshop is not dependent on production of the module.
+    |**Icon**|**Module**|**Icon**|**Input**|**t/min**|**<img src="../../_media/icons/icon_idea.png" height="24" /> Expertise Output**|
+    |---|---|---|---|---|---|
+    |<img src="../../_media/icons/A6_module_orbit_habitat.png" height="32" />|Artificial-G Lab|<img src="../../_media/icons/A6_Anti-GravCompensators.png" height="32" />|Anti-G-Compensator|<div align=center>1<div>|<div align=center>10<div>|
+    |<img src="../../_media/icons/A6_module_orbit_solar.png" height="32" />|Solar Cells|<img src="../../_media/icons/A6_super_conductors.png" height="32" />|Superconductors|<div align=center>1<div>|<div align=center>5<div>|
+    |<img src="../../_media/icons/A6_module_orbit_garden.png" height="32" />|Greenhouse|<img src="../../_media/icons/A6_biocatalysts_4.png" height="32" />|Biocatalyst|<div align=center>1<div>|<div align=center>10<div>|
+    |<img src="../../_media/icons/A6_module_orbit_hangar.png" height="32" />|Storage Platform|<img src="../../_media/icons/A6_smart_drones.png" height="32" />|Smart Drones|<div align=center>1<div>|<div align=center>5<div>|
+    |<img src="../../_media/icons/A6_module_orbit_recycling.png" height="32" />|Recycling Module|<img src="../../_media/icons/A6_replicators.png" height="32" />|Replicators|<div align=center>1<div>|<div align=center>10<div>|
+    |<img src="../../_media/icons/A6_module_orbit_heat.png" height="32" />|Radiator|<img src="../../_media/icons/A6_Supercoolants.png" height="32" />|Supercoolants|<div align=center>1<div>|<div align=center>5<div>|
 
 ### <img src="../../_media/icons/icon_idea.png" height="24" /> Technologies
    - Expertise Cost for all Techs have been increased. See the table below for details:
@@ -43,7 +53,7 @@
 
 
 - Total cost for activating all 55 Techs is 12000 Expertise
-- Total possible Expertise gain is now 6250 from workshops plus the amount you generate on Mars (only limited by building space and goods input)
+- Total possible Expertise gain is now 5000 from workshops, plus the amount generated by the orbit modules plus the amount you generate on Mars (only limited by building space and goods input)
 - Special buildings are now locked behind research of Tier 3 technologies in the interconnecting tree of each branch.
   - Example: The AI Assembly Hall, which produces Cybersynth Circuits, is initially locked on the Moon, even though you need it to produce BioEnhancers for your Executives. For now, you will have to rely on the more expensive AI Assembly Hall in the Tundra Region and ship them to the Moon for processing. However, by researching the level 3 tech of the linking tree between the standard Biotech and Electronics techs, you can unlock this building on the Moon, greatly simplifying the production chain. If you also research Aeroponic Farming on the Moon, you can produce all the inputs for the Cybersynth circuits on the Moon, drastically reducing the logistical costs involved in producing BioEnhancers.
 
@@ -72,7 +82,7 @@
     |3|**Individual Crop Tracking** <br> Farms can support +2 main modules|**DNA Recombineering** <br> -20% Input Goods needed in all biotech facilities|**Rapid Prototyping** <br> -20% Input Goods needed in all electronics facilities|**Turbine Optimisation** <br> -20% Input Goods needed in all energy facilities|**Semi-autonomous Machinery** <br> -15% Workforce Maintenance in heavy industry facilities|
     |3|**Sensor Overclocking** <br> +100% increased resource salvaging in Crisis Sectors|**Petrochemicals Reprocessing** <br> Obtain 10 Petrochemicals per minute|**Graphene Reprocessing** <br> Obtain 11 Graphene units per minute|**Iridium Reprocessing** <br> Obtain 15 Iridium units per minute|**Magnetite Reprocessing** <br> Obtain 6 Magnetite units per minute|
     |||||||
-    |4|**Sustainable Packaging** <br> Sustenance Pack Producers use Biopolymers instead of Aluminum|**Rejuvenation Program** <br> Ionization Chambers use Hyaluronic Acid instead of Cobalt|**Slow Methane Fermentation** <br> Boreal and Arctic Tailors use Natural Gas instead of Fusion Power Cells|**Biogas** <br> Gas Power Plants use Soy Beans instead of Natural Gas and Fossil-fuel Power Plants use Moss instead of Natural Gas|**Semiconductor Doping** <br> Microfabrication Halls use Rare Earth Elements instead of Bioresins <br> +25% Productivity in Microfabrication Halls|
+    |4|**Sustainable Packaging** <br> Sustenance Pack Producers use Biopolymers instead of Aluminum|**Rejuvenation Program** <br> Ionization Chambers use Hyaluronic Acid instead of Cobalt|**Slow Methane Fermentation** <br> Boreal and Arctic Tailors use Natural Gas instead of Fusion Power Cells|**Biogas** <br> Gas Power Plants use Soy Beans instead of Natural Gas and Fossil-fuel Power Plants use Moss instead of Natural Gas|**Semiconductor Doping** <br> Microfabrication Halls use Rare Earth Elements instead of Bioresins <br> +50% Productivity in Microfabrication Halls|
     |4|**Fishing Quotas** <br>Fine Food Kitchens use Soy Beans instead of Fish.|**Phytopharmacy** <br> Biomedical Laboratories use Fruits instead of Synthcells|**Hardware Optimization** <br> Hardware Fabrication Plants use Fusion Power Cells instead of Superconductors|**Liquid Extraction** <br> Fusion Preparation Plants use Moon Ice instead of Deuterium|**Cobalt Alloys** <br> Nano-Cutting Units use Cobalt instead of Rare Earth Elements|
     |4|**Rewards Program** <br> +15% Workforce increase <br> +5% Goods consumption in Arctic, Tundra and Lunar Regions|**Consumption Damper** <br> -15% Decrease in Revenue <br> -5% Goods consumption <br> In Arctic, Tundra and Lunar Regions|**Consumer Electronics** <br> +5% Increase in Revenue <br> -15% Workforce generation <br> In the Temperate Region <br> +25% Productivity in Consumer Electronic Facilities|**Daylight Saving Time** <br> -25% Energy Maintenance in residences <br> -5% Workforce generation <br> In the Temperate Region|**Austerity Policy** <br> -10% Goods consumption <br> -10% Workforce generation <br> In the Temperate Region|
     |||||||

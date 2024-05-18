@@ -7,9 +7,9 @@
 |---|---|---|---|---|
 |<img src="../../_media/icons/A6_CommunityCenter.png" height="32" />| Community Center|nothing|<div align=center>10</div>|<div align=center>10</div>|
 |<img src="../../_media/icons/A6_SecurityDepartment.png" height="32" />| Police Station| <img src="../../_media/icons/A6_smart_drones.png" height="32" /> Smart Drones|<div align=center>25</div>|<div align=center>20</div>|
-|<img src="../../_media/icons/A6_mobility.png" height="32" />| Metro Station|<img src="../../_media/icons/A6_super_conductors.png" height="32" /> Superconductors|<div align=center>75</div>|<div align=center>40</div>|
-|<img src="../../_media/icons/A6_Infodrome.png" height="32" />| Infodrome|<img src="../../_media/icons/A6_Quantum_Computers.png" height="32" /> Quantum Computers|<div align=center>75</div>|<div align=center>40</div>|
-|<img src="../../_media/icons/A6_recreation.png" height="32" />| Stadium|<img src="../../_media/icons/A6_androids.png" height="32" /> Androids & <img src="../../_media/icons/A6_FusionPowerCells.png" height="32" /> Fusion Power Cells|<div align=center>150</div>|<div align=center>80</div>|
+|<img src="../../_media/icons/A6_mobility.png" height="32" />| Metro Station|<img src="../../_media/icons/A6_super_conductors.png" height="32" /> Superconductors|<div align=center>30</div>|<div align=center>75</div>|
+|<img src="../../_media/icons/A6_Infodrome.png" height="32" />| Infodrome|<img src="../../_media/icons/A6_Quantum_Computers.png" height="32" /> Quantum Computers|<div align=center>75</div>|<div align=center>30</div>|
+|<img src="../../_media/icons/A6_recreation.png" height="32" />| Stadium|<img src="../../_media/icons/A6_androids.png" height="32" /> Androids & <img src="../../_media/icons/A6_FusionPowerCells.png" height="32" /> Fusion Power Cells|<div align=center>150</div>|<div align=center>50</div>|
 |<img src="../../_media/icons/A6_colony_safety.png" height="32" />| Maintenance Station|<img src="../../_media/icons/A6_construct_o_bots.png" height="32" /> Construct-o-Bots & <img src="../../_media/icons/A6_cybersynth_circuits.png" height="32" /> Cybersynth Circuits|<div align=center>80</div>|20 Maintenance (Synths)|
 |<img src="../../_media/icons/A6_CorporationHQ.png" height="32" />| Corporation Headquarter|nothing|<div align=center>250</div>|<div align=center>100</div>|
 

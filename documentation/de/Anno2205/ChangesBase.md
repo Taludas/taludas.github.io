@@ -77,6 +77,7 @@
    - Windparks produzieren 125 Energie (war 50), wodurch sie auch in späteren Spielphasen kompetitiver werden
    - Entsalzungsanlage: Der Output wurde von 5t/min auf 8t/min erhöht
    - Der Output von Feldspat- und Kobaltminen wurde auf 10 t/min geändert (war 5 t/min)
+   - Der Output der Mikrochipfabrik wurde auf 8 t/min geändert (war 5 t/min)
    - Konzernzentrale kann jetzt 50 Module bauen (war 30)
    - Bei den Modulen der Konzernzentrale wurde der Wartungsmodifikator auf +10% geändert (war +5%). Der Produktionsmodifikator beträgt nun +5% für Dienstleistungen und +10 für Urbanisierung.
 
@@ -89,6 +90,7 @@
 ### <img src="../../_media/icons/icon_moon_goods_round.png" height="24" /> Moon
   - Baumaterialkosten für Baubots wurden für alle Gebäude auf dem Mond nach dem Freischalten des interorbitalen Raumhafens hinzugefügt
   - Die Kosten für Baumaterialien und Credits für viele Mondgebäude wurden angepasst.
+  - Steigerung der Produktivität des Hauptmoduls der Kybernetischen Fabrik auf 150 % (war 100 %) bei gleichzeitiger Erhöhung der Wartungskosten, der Arbeitskräfte und der Energiewartung des Hauptgebäudes
 
 ### <img src="../../_media/icons/icon_arctic_custodians.png" height="24" /> Tundra
    - Wohnhäuser in der Tundra kosten jetzt Credits für das Upgrade: Upgrade auf Feldforscher 250

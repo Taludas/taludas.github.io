@@ -13,7 +13,7 @@
 |**Jahreszeit**|**Länge**|**Effekt**|
 |---|---|---|
 |<img src="../../_media/icons/summer.png" height="32"/> Sommer|`Auftragszeit = Lang` = 60 min <br> `Auftragszeit = Mittel` = 30 min <br> `Auftragszeit = Kurz` = 15 min|**Sonnenstürme** <br> Energietransfer ineffektiv <br> Solarmodule haben höhere Produktivität|
-|<img src="../../_media/icons/autumn.png" height="32"/> Herbst|`Auftragszeit = Long` = 30 min <br> `Auftragszeit = Medium` = 15 min <br> `Auftragszeit = Kurz` = 7:30 min|**Vulkanische Aktivität** <br> Minenbauplätze geschlossen <br> Energieforschungslabor hat höhere Produktivität|
+|<img src="../../_media/icons/autumn.png" height="32"/> Herbst|`Auftragszeit = Long` = 30 min <br> `Auftragszeit = Medium` = 15 min <br> `Auftragszeit = Kurz` = 7:30 min|**Vulkanische Aktivität** <br> Minenbauplätze geschlossen|
 |<img src="../../_media/icons/winter.png" height="32"/> Winter|`Auftragszeit = Long` = 60 min <br> `Auftragszeit = Medium` = 30 min <br> `Auftragszeit = Kurz` = 15 min|**Trockeneis-Stürme** <br> Marsianische Synths brauchen mehr Dienstleistungen <br> Methaneis-Extraktoren haben höhere Produktivität|
 |<img src="../../_media/icons/spring.png" height="32"/> Frühling|`Auftragszeit = Long` = 30 min <br> `Auftragszeit = Medium` = 15 min <br> `Auftragszeit = Kurz` = 7:30 min|**Staubstürme** <br> Handelsrouten unterbrochen <br> Windpark, KREEP Sammler und Diamond-Extraktor haben höhere Produktivität|
 
@@ -114,6 +114,7 @@ Indem Sie die Anzahl der Synths auf dem Mars weiter erhöhen, können Sie nun au
 - Arktisches Gesundheitszentrum
 - Arktis-Schneiderei
 - Methangas-Raffinerie
+- Kleiner Heizofen
 - Arktisches Infodrom
 - Supraleiter-Fertigungshalle
 - Fabrik für Neuronale Schnittstellen

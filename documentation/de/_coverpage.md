@@ -5,15 +5,15 @@
 > <span style='color: var(--theme-color);'>Eine komplette Überarbeitung des Spiels, um Spieltiefe und Balancing zu verbessern.</span>
 
 
-- &#x2022; Neue Mars Region
-- &#x2022; Neue Arktis Tier 3 Bevölkerung
-- &#x2022; Komplette Überarbeitung aller Produktionsketten
-- &#x2022; 9 neue Produkte und mehrere überarbeitete bestehende Produkte
-- &#x2022; Erhöhte Komplexität bei der Interaktion zwischen bestehenden Regionen
-- &#x2022; Nachhaltige Überarbeitung des Technologie-Nexus sowie der Orbitalstation
+- <span style='color: white;'>&#x2022; Neue Mars Region</span>
+- <span style='color: white;'>&#x2022; Neue Arktis Tier 3 Bevölkerung</span>
+- <span style='color: white;'>&#x2022; Komplette Überarbeitung aller Produktionsketten</span>
+- <span style='color: white;'>&#x2022; 9 neue Produkte und mehrere überarbeitete bestehende Produkte</span>
+- <span style='color: white;'>&#x2022; Erhöhte Komplexität bei der Interaktion zwischen bestehenden Regionen</span>
+- <span style='color: white;'>&#x2022; Nachhaltige Überarbeitung des Technologie-Nexus sowie der Orbitalstation</span>
 
-[Dokumentation](/de/Anno2205/Anno2205NewFrontiers.md)
-[Download](https://drive.google.com/file/d/1ieKBR05wj9faAGwwROIFxkLX25pu4hqw/view?usp=sharing)
+[Mehr erfahren](/de/Anno2205/Anno2205NewFrontiers.md)
+[Jetzt herunterladen]()
 
 <!-- background image -->
 
