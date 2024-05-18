@@ -7,7 +7,7 @@
 > **&#x2022; If you want to experience the full effect of Mars' four seasons, it is required that you start your savegame with edited difficulty settings upon game creation: `Calamities=[Seldom, Regular or Frequent]` and `Assignment Time=[Long, Medium or Short]`. The later option influences the length of the Mars Seasons.**
 <br>
 
-1. Download the latest release from [here](https://drive.google.com/file/d/1ieKBR05wj9faAGwwROIFxkLX25pu4hqw/view?usp=sharing).
+1. Download the latest release from [here](https://github.com/Taludas/Anno2205-NewFrontiers/releases/latest/download/Anno2205_NewFrontiers.zip).
 
 2. Open your Anno 2205 installation directory.
 > Easiest way is through the game launcher of your choice. For Ubisoft Connect follow this path: Library -> Anno 2205 -> Manage (top right corner with the gear icon) -> Properties -> Installation -> Open folder

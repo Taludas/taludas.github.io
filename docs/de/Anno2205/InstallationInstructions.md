@@ -7,7 +7,7 @@
 > **&#x2022; Wenn ihr die vier Jahreszeiten des Mars in vollem Umfang erleben wollt, müsst ihr euren Spielstand bei der Erstellung des Spiels mit veränderten Schwierigkeitseinstellungen starten: `Katastrophen=[Selten, Regelmäßig oder Häufig]` und `Auftragszeit=[Lang, Mittel oder Kurz]`. Die letztere Option beeinflusst die Länge der Mars-Jahreszeiten.**
 <br>
 
-1. Downloadet die aktuellste Release-Version von [hier](https://drive.google.com/file/d/1ieKBR05wj9faAGwwROIFxkLX25pu4hqw/view?usp=sharing).
+1. Downloadet die aktuellste Release-Version von [hier](https://github.com/Taludas/Anno2205-NewFrontiers/releases/latest/download/Anno2205_NewFrontiers.zip).
 
 2. Öffnet euer Anno 2205-Installationsverzeichnis.
 > Am einfachsten geht das über den Game Launcher eurer Wahl. Für Ubisoft Connect folgt ihr diesem Pfad: Bibliothek -> Anno 2205 -> Verwalten (oben rechts mit dem Zahnradsymbol) -> Eigenschaften -> Installation -> Ordner öffnen
