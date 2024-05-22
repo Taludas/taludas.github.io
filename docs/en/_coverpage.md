@@ -12,7 +12,7 @@
 - <span style='color: white;'>&#x2022; Enhanced game depth, complexity and region interaction</span>
 - <span style='color: white;'>&#x2022; Intense Rework of the Orbital Station and Technology Nexus</span>
 
-[Read Documentation](/en/Anno2205/Anno2205NewFrontiers.md)
+[Learn more](/en/Anno2205/Anno2205NewFrontiers.md)
 [Download Now](https://github.com/Taludas/Anno2205-NewFrontiers/releases/latest/download/Anno2205_NewFrontiers.zip)
 
 <!-- background image -->
