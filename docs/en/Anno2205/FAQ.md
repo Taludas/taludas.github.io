@@ -1,4 +1,10 @@
 # FAQ
+
+This is a collection of the most common questions that have come up in the beta tests. 
+
+If you have questions that are not answered here, or you just want to discuss the mod's features, please head over to the dedicated discord forum for my mods, where I reguallarly check for new questions: [Anno Mod-Corner International Discord -> "mods-feedback"](https://discord.gg/2T4U3rFqYq)
+You can also use the [Discussions](https://github.com/Taludas/Anno2205-NewFrontiers/discussions) and [Issues](https://github.com/Taludas/Anno2205-NewFrontiers/issues) sections of this mod's Github Repository for feedback and bugs!
+
 1. **When do I unlock the Mars?**
 
     The new storyline to reach the Mars is unlocked after you have completed the Main Story of 2205. The Quest will then ask you to finish the Sector Quest for the "Greentide Archipelago" to unlock Synthetics. Afterwards, the Second Mars Mission begins which will eventually take you to the Red Planet.
