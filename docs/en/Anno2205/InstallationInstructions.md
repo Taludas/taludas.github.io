@@ -15,7 +15,7 @@
 
 4. Copy the "data" folder from the downloaded zip-file to the Anno 2205 installation directory. Overwrite existing files, if prompted to do so.
 
-5. Change the folder to your Windows "Documents" folder (Standard path is: C:\Users\YOUR_NAME\Documents). Go into the "Anno 2205" folder. If there is none, make sure you have started the game once after installation.
+5. Now you need to open the Windows "Documents" folder (Standard path is: C:\Users\YOUR_NAME\Documents). Open the "Anno 2205" folder inside. If there is none, make sure you have started the game at least once after installation.
 
 6. Inside the "Anno 2205" folder, follow the path "Anno 2205\config\engine.ini". Open the engine.ini file with an editor program. Editor, Notepad++ or VSCode are good programs to do this.
 
