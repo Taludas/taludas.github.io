@@ -1,4 +1,10 @@
 # FAQ
+
+Dies ist eine Zusammenstellung der häufigsten Fragen, die während der Beta-Tests aufgetaucht sind. 
+
+Wenn ihr Fragen habt, die hier nicht beantwortet werden, oder wenn ihr einfach nur über die Funktionen des Mods diskutieren wollt, besucht bitte das spezielle Discord-Forum für meine Mods, wo ich regelmäßig neue Fragen beantworte: [Anno Mod-Corner International Discord -> „mods-feedback“](https://discord.gg/2T4U3rFqYq)
+Ihr könnt auch die [Discussions](https://github.com/Taludas/Anno2205-NewFrontiers/discussions) und [Issues](https://github.com/Taludas/Anno2205-NewFrontiers/issues) Sektionen des Github Repositories dieser Mod für Feedback und Bugs nutzen!
+
 1. **Wann schalte ich den Mars frei?**
 
     Die neue Storyline, um den Mars zu erreichen, wird freigeschaltet, nachdem die Hauptstory von 2205 abgeschlossen wurde. Die Quest wird euch dann auffordern, die Sektorquest für das "Grünflut-Archipel" abzuschließen, um die Synthetiks freizuschalten. Danach beginnt die zweite Mars-Mission, die euch schließlich auf den Roten Planeten führen wird.
