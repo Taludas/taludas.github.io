@@ -90,7 +90,7 @@ In der Reihenfolge ihres Auftauchens:
 
     Neurale Schnittstellen sind ein völlig neues Produkt, das mit der Mod eingeführt wurde. Es wird ausschließlich in der arktischen Region hergestellt und erfordert den Einsatz von MultiSpec-Prismen und Supraleitern. Die Kette wird mit Geniuses freigeschaltet. Das Produktionsgebäude ist eines der teuersten in Bezug auf Credit-, Arbeitskräfte- und Energieunterhalt im ganzen Spiel. Neurale Schnittstellen werden auch von Genies und Synthetiks benötigt.
 
-  - ### <img src="../../_media/icons/A6_spacefood.png" height="32" /> NAhrungspacks:
+  - ### <img src="../../_media/icons/A6_spacefood.png" height="32" /> Nahrungspacks:
 
     <img src="../../_media/production_chains/productionchain_sustenancepacksarctic.png" />
 
