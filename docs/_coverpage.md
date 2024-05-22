@@ -13,7 +13,7 @@
 - <span style='color: white;'>&#x2022; Intense Rework of the Orbital Station and Technology Nexus</span>
 
 [Learn more](/en/Anno2205/Anno2205NewFrontiers.md)
-[Download Release](https://github.com/Taludas/Anno2205-NewFrontiers/releases/latest/download/Anno2205_NewFrontiers.zip)
+[Download now](https://github.com/Taludas/Anno2205-NewFrontiers/releases/latest/download/Anno2205_NewFrontiers.zip)
 
 <!-- background image -->
 
