@@ -1,5 +1,6 @@
 ## Overhauled Public Buildings
   - **Services** are a newly introduced product that can only be produced by Public Buildings. I created them to overhaul and diversify the 2205 Public Building game mechanic.
+  - Corporation HQ is now limited to 1 per sector.
   - Public buildings now take **4t/min** of varying input goods to produce Services. In addition, **Urbanisiation** is provided passively. This product uses the "regular" 2205 Public Building mechanic.
 
 ### <img src="../../_media/icons/icon_earth_goods_round.png" height="24" /> Earth

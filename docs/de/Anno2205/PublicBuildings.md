@@ -1,5 +1,6 @@
 ## Überarbeitete Öffentliche Gebäude
   - **Dienstleistungen** sind ein neu eingeführtes Produkt, das nur von öffentlichen Gebäuden hergestellt werden kann. Ich habe sie entwickelt, um die Spielmechanik der öffentlichen Gebäude von 2205 zu überarbeiten und zu diversifizieren.
+  - Das Firmenhauptquartier ist nun auf 1 pro Sektor limitiert.
   - Öffentliche Gebäude benötigen nun **4t/min** an unterschiedlichen Inputgütern, um Dienstleistungen zu produzieren. Darüber hinaus wird **Urbanisierung** passiv bereitgestellt. Dieses Produkt verwendet die "normale" 2205 Öffentliche Gebäude-Mechanik.
 
 ### <img src="../../_media/icons/icon_earth_goods_round.png" height="24" /> Erde
