@@ -5,6 +5,8 @@
 > **&#x2022; You need to own all three official DLCs to play this mod!**
 >
 > **&#x2022; If you want to experience the full effect of Mars' four seasons, it is required that you start your savegame with edited difficulty settings upon game creation: `Calamities=[Seldom, Regular or Frequent]` and `Assignment Time=[Long, Medium or Short]`. The later option influences the length of the Mars Seasons.**
+>
+> **&#x2022; If you don't want to experience any seasons on Mars, choose the following settings: `Calamities=[Off]` and `Assignment Time=[No Limit]`. This will give you an "infinite" summer on Mars, which has no restrictive effect on the sector.**
 <br>
 
 1. Download the latest release from [here](https://github.com/Taludas/Anno2205-NewFrontiers/releases/latest/download/Anno2205_NewFrontiers.zip).

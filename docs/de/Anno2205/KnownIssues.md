@@ -26,6 +26,16 @@
 - Immer wenn sich die Mars-Jahreszeit ändert und man sich in einem anderen Sektor befindet, wechselt die Tageszeit von selbst zu derjenigen, die vom Mars-Jahreszeit-Effekt verwendet wird. Man kann die Uhrzeit über das Kameramenü neben der Minimap einstellen.
 - Wenn man die Quest "Geo-Engineering" auf dem Mars verwendet, kann das Skript zufällig die gleiche Eigenschaft auswählen, die bereits aktiv ist. Dies führt dazu, dass der Sektor seine Eigenschaft komplett verliert. In diesem Fall könnt ihr die Konsole benutzen, um den Effekt wieder zu bekommen. Die GUIDs können [hier](/de/Anno2205/SectorTraits.md) gefunden werden. Als erstes müsst ihr den Mars-Sektor betreten. Drückt dann Shift+F1, um die Konsole zu öffnen und gebt `debug.toggleSectorEffect(GUID)` mit der entsprechenden GUID des gewünschten Traits ein. Drückt Enter und schließt die Konsole wieder mit Shift+F1.
 - Manchmal können die Effekte der Mars-Jahreszeiten zufällig auf dem Mond auftreten. Dies ist ein Problem, da sie sehr lange andauern und nicht durch eine Quest gelöst werden können. Auch hier müsst ihr die Konsole benutzen, um sie loszuwerden. Betretet zunächst die betreffende Mond-Session. Drückt nun Shift+F1, um die Konsole zu öffnen und gebt `debug.toggleSectorEffect(GUID)` ein. Ersetzt nun den Platzhalter „GUID“ durch die entsprechende GUID des gerade aktiven Jahreszeiteneffekts (siehe unten). Drückt die Enter-Taste und schließt die Konsole wieder mit Shift+F1. Der Effekt sollte nun verschwunden sein.
+- Sometimes, Martian Season effects can end up mismatched with the current season quest. If you currently suffer from mismatched season effect to the shown season quest in the quest tracker on the left side of the screen, you have to use the console to fix this:
+> 1. Drücke Shift+F1, um die Konsole zu öffnen.
+> 2. Gib ein (ohne Tippfehler, achte auf Groß- und Kleinschreibung!), ersetze "CurrentSeasonGUID" mit der korrekten Zahl aus der Tabelle unten:
+`debug.startSectorEffect(CurrentSeasonGUID,19990093)`
+> 3. Drücke die Eingabetaste
+> 4. Gib ein (ohne Tippfehler, achte auf Groß- und Kleinschreibung!), , ersetze "CorrectSeasonGUID" mit der korrekten Zahl aus der Tabelle unten:
+`debug.startSectorEffect(CorrectSeasonGUID,19990093)`
+> 5. Drücke Shift+F1, um die Konsole zu schließen.
+> 6. Der Sektoreffekt sollte nun mit der aktuellen Jahreszeitenquest übereinstimmen.
+
   |Jahreszeit|Sommer|Herbst|Winter|Frühling|
   |---|---|---|---|---|
   |GUID|19990307|19990378|19990370|19990374|

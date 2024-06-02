@@ -5,6 +5,8 @@
 > **&#x2022; Ihr müsst alle 3 DLCs besitzen, um die Inhalte der Mod spielen zu können.**
 >
 > **&#x2022; Wenn ihr die vier Jahreszeiten des Mars in vollem Umfang erleben wollt, müsst ihr euren Spielstand bei der Erstellung des Spiels mit veränderten Schwierigkeitseinstellungen starten: `Katastrophen=[Selten, Regelmäßig oder Häufig]` und `Auftragszeit=[Lang, Mittel oder Kurz]`. Die letztere Option beeinflusst die Länge der Mars-Jahreszeiten.**
+>
+> **&#x2022; Wenn ihr keine Jahreszeiten auf dem Mars erleben wollt, dann wählt folgende Einstellungen: `Katastrophen=[Aus]` und `Auftragszeit=[Kein Limit]`. Dadurch werdet ihr auf dem Mars einen "unendlichen" Sommer haben, der keinen einschränkenden Effekt auf den Sektor hat.**
 <br>
 
 1. Downloadet die aktuellste Release-Version von [hier](https://github.com/Taludas/Anno2205-NewFrontiers/releases/latest/download/Anno2205_NewFrontiers.zip).
