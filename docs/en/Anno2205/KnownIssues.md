@@ -2,7 +2,7 @@
 
 **Base game:**
 
-- The four new products (Organic Food, Fine Food, Sustenance Packs and Thermal Shells) cannot be traded with the world market. 
+- The four new products (Organic Food, Fine Food, Sustenance Packs and Thermal Shells) cannot be traded with the world market.
 - There are five quests to guide you to do specific research to unlock certain buildings as the "Unlock Condition" tooltip only works with population milestones. Unfortunately those quests will be visible in all sessions, not only in those the buildings are located in.
 - Certain Secondary Module tooltips will not show the correct tooltip description (i.e. Energy module on Energy Production buildings giving +15% output, or Mars Research Lab modules)
 - The population overview filter in the strategic view does not work properly with the new Arctic Tier 3. It does not show the correct portrait next to the number. Same goes for the Martian Synthetics.
@@ -24,6 +24,7 @@
 - Mars Meteors use Moon ground textures.
 - While loading the Mars Sector icon will change to a white rectangle. After clicking for loading, click anywhere on the strategic view again to get the icon back.
 - Whenever Mars season changes and you are in another sector, the time of day will change to that one used by the Martian season effect on its own accord. You can adjust the time via the camera menu next to the minimap.
+- The winter season has the peculiarity that the effect is applied twice. I have therefore adjusted the value so that this is taken into account. If you quit and restart the game in winter, the (de)buff will only be about half as strong as before.
 - If you use the Geo-Engineering quest on Mars, the script may randomly choose to apply the same trait that is already active. This will cause the sector to lose its trait altogether. In that case, you can use the console to reapply the effect. The GUIDs can be found [here](/en/Anno2205/SectorTraits.md). First, enter the Mars session. Now press Shift+F1 to open the console and type `debug.toggleSectorEffect(GUID)` using the corresponding number of the wanted trait. Press enter and close the console with Shift+F1 again.
 - Sometimes, Martian Season effects can randomly start on the Moon. This is a problem, as they last for a very long time and cannot be resolved with a quest. Again, you need to use the console to get rid of them, if it happens to you: First, enter the Moon session in question. Now press Shift+F1 to open the console and type `debug.toggleSectorEffect(GUID)`. Proceed to replace the "GUID" placeholder with the corresponding GUID from the currently active season effect (see below). Press enter and close the console with Shift+F1 again. The effect should be gone.
 - Sometimes, Martian Season effects can end up mismatched with the current season quest. If you currently suffer from mismatched season effect to the shown season quest in the quest tracker on the left side of the screen, you have to use the console to fix this:
