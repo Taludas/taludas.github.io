@@ -17,17 +17,17 @@ src="https://www.youtube.com/embed/WbvzumYyxVY">
 
 2. Open your Anno 2205 installation directory.
 > Easiest way is through the game launcher of your choice. For Ubisoft Connect follow this path: Library -> Anno 2205 -> Manage (top right corner with the gear icon) -> Properties -> Installation -> Open folder
-1. Make sure you have no other mods installed for the game. If you are not sure, use the "verify files" option of your game launcher.
+3. Make sure you have no other mods installed for the game. If you are not sure, use the "verify files" option of your game launcher.
 
-2. Copy the "data" folder from the downloaded zip-file to the Anno 2205 installation directory. Overwrite existing files, if prompted to do so.
+4. Copy the "data" folder from the downloaded zip-file to the Anno 2205 installation directory. Overwrite existing files, if prompted to do so.
 
-3. Now you need to open the Windows "Documents" folder (Standard path is: C:\Users\YOUR_NAME\Documents). Open the "Anno 2205" folder inside. If there is none, make sure you have started the game at least once after installation.
+5. Now you need to open the Windows "Documents" folder (Standard path is: C:\Users\YOUR_NAME\Documents). Open the "Anno 2205" folder inside. If there is none, make sure you have started the game at least once after installation.
 
-4. Inside the "Anno 2205" folder, follow the path "Anno 2205\config\engine.ini". Open the engine.ini file with an editor program. Editor, Notepad++ or VSCode are good programs to do this.
+6. Inside the "Anno 2205" folder, follow the path "Anno 2205\config\engine.ini". Open the engine.ini file with an editor program. Editor, Notepad++ or VSCode are good programs to do this.
 
-5. Search for the `"PreferLocalFiles"` entry. Change the value behind it from `"false"` to `"true"`. If it has been changed already, you don't need to do it. Make sure to save the edited .ini file on exit.
+7. Search for the `"PreferLocalFiles"` entry. Change the value behind it from `"false"` to `"true"`. If it has been changed already, you don't need to do it. Make sure to save the edited .ini file on exit.
 
-6. Read the [FAQ](/en/Anno2205/FAQ.md) and the [Known Issues List](/en/Anno2205/KnownIssues.md)
+8. Read the [FAQ](/en/Anno2205/FAQ.md) and the [Known Issues List](/en/Anno2205/KnownIssues.md)
 
-7. You are good to go!
+9. You are good to go!
 > You will notice if the installation has been successful when the usual epilepsy warning has been changed to a custom text. Enjoy the mod!
