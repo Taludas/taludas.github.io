@@ -1,0 +1,8 @@
+- [Taludas' Mods - Über mich](/de/README.md)
+- [Anno 1800 Mods](/de/Anno1800/Anno1800.md)
+  - [New World Expanded Mod Collection](/de/Anno1800/NWExpanded/NWExpanded.md)
+  - [River Slots](/de/Anno1800/RiverSlots/RiverSlots.md)
+  - [Hacienda Overhaul](/de/Anno1800/HacidedaOverhaul/HacidedaOverhaul.md)
+  - [Gameplay Mods Collection](/de/Anno1800/GameplayModsCollection/GameplayModsCollection.md)
+  - [Small Mods](/de/Anno1800/SmallModsCollection/SmallModsCollection.md)
+- [Anno 2205 New Frontiers](/de/Anno2205/Anno2205NewFrontiers.md)

@@ -1,0 +1,16 @@
+# Combined Customizable Research and Items Mod
+
+<div align=center><img src="_media/Anno1800/mod_banners/smallmodscollection/banner13.png"/></div>
+
+<div align=center><a href="https://g-4169.modapi.io/v1/games/4169/mods/3227856/files/4946872/download"> <font size="40">Jetzt herunterladen</font></a></div>
+
+Diese Mod kombiniert eines der am meisten erwarteten QoL-Updates seit der Veröffentlichung von Anno 1800 bezüglich des Item-Gameplays - zumindest für mich - mit einem vollständig anpassbaren Forschungsinstitut. Diese Mod ist dafür gedacht, über den [iModYourAnno Mod Manager](https://github.com/anno-mods/iModYourAnno/releases) angepasst zu werden. Andernfalls erhältst du Vanilla-Werte für alle Features, die das Forschungsinstitut betreffen.
+
+Du kannst jetzt jeden Gegenstand im Spiel stapeln, außer Quest-Gegenständen (die normalerweise einzigartig sind), bis zu 99 Stück pro Stapel. Ihr müsst nicht mehr eine ganze Flotte unterhalten, um eine Handvoll Gegenstände bei Eli zu kaufen. Das sollte auf lange Sicht eine große Zeitersparnis sein. Kauft einfach ein Stück von jedem Gegenstand, den ihr in Massen kaufen wollt, danach werden alle anderen Gegenstände ausgegraut, weil kein Platz mehr in eurem Schiff ist. Nur die ausgewählten Gegenstände sind kaufbar und lassen sich im Schiff stapeln.
+
+Du kannst fast jeden Wert, der mit dem Forschungsinstitut zu tun hat, ändern. Von der maximalen Größe der Warteschlange über die Konfiguration der Forschungszeit und -kosten, das Kostenlimit für die Erforschung von Gegenständen bis hin zur Anzahl der Genehmigungen, die pro Forschung erteilt werden. Schaue am besten in iMYA hinein und spiele mit den Zahlen, um die volle Bandbreite zu erleben.
+Du kannst auch das Item Transfer Modul in jeder Sitzung anpassen. Frustriert über das Limit von 24 Gegenständen? Kein Problem, mit dieser Mod kannst du sie auf jede beliebige Zahl erhöhen. Du kannst auch den Timer abschalten, bis der Gegenstand verfügbar ist! Enthält Unterstützung für Arktis und Enbesa Module, wenn du diese Mods verwendest.
+Diese Mod ist (nicht notwendigerweise) inkompatibel mit allen anderen Mods, die in irgendeiner Weise die Eigenschaften des Forschungsinstituts verändern (Zeit, Kosten, Output, etc.) Ich habe die Mods, die ich bei Nexus gefunden habe und die eine modinfo.json haben, als inkompatibel markiert. Aber es gibt genug Mods, die das nicht haben. Seid also vorsichtig bei der Wahl eurer Mods! Wenn ihr noch einige dieser Mods habt, wird mein Mod sie dank LoadAfterIds höchstwahrscheinlich überschreiben, also macht euch nicht zu viele Sorgen!
+
+Das kleine Problem, das eigentlich keins ist:
+Mit dieser Mod könnte man die Expeditionsfunktion des Spiels ausnutzen, da jeder Gegenstand im Laderaum des Schiffes für die Erfolgswahrscheinlichkeit der gewählten Expedition zählt. Man könnte also einfach einen Stapel von 6 legendären Gegenständen laden und hätte nie wieder Probleme mit dem "Minispiel". Da man aber auch ActionItems wie die Piratenflaggen stapeln hätte können und das niemand getan hat, glaube ich an euch alle, dass ihr dieses Feature klug und reiflich nutzt, um nur ja nicht durchzudrehen, wenn ihr bei Eli Items kauft.
