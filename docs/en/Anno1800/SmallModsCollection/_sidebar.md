@@ -5,6 +5,7 @@
   - [Hacienda Overhaul](/en/Anno1800/HaciendaOverhaul/HaciendaOverhaul.md)
   - [Gameplay Mods Collection](/en/Anno1800/GameplayModsCollection/GameplayModsCollection.md)
   - [Small Mods](/en/Anno1800/SmallModsCollection/SmallModsCollection.md)
+    - [Easy Post](/en/Anno1800/SmallModsCollection/EasyPost.md)
     - [More Arctic Scrap](/en/Anno1800/SmallModsCollection/MoreArcticScrap.md)
     - [Campher and Cinnamon Orchards use different tree configs](/en/Anno1800/SmallModsCollection/CampherandCinnamon.md)
     - [Adjustments for HighLife Goods](/en/Anno1800/SmallModsCollection/AdjustmentsforHighLifeGoods.md)
