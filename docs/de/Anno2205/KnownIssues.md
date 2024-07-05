@@ -11,6 +11,7 @@
 - Fabriken, die Urbanisierung als Nebnprodukt erzeugen, können nicht mehr pausiert werden.
 - Die Auswahl eines Bergbauplatzes auf dem Mond zeigt nur 5 mögliche Einträge in der Benutzeroberfläche an. Da es nun insgesamt 6 Minen gibt, kann der Regolith-Sammler nur noch über das Baumenü gebaut werden.
 - Erhöhter Lagerplatz für Seltene Ressourcen-Generatoren wird erst nach einmaligem Einsammeln der Ressourcen wirksam. Wartet daher immer, bis die erste Einheit generiert wurde und sammelt sie sofort nach dem Bau ein, um die Speichermenge auf den modifizierten Wert zu setzen.
+- Die Benutzeroberfläche der Astronauten-Trainingslager wurde in die einer Standardfabrik geändert, um die Anzeige von zusätzlichen Waren zu unterstützen, die durch die Aktivierung der Stufe-5-Schwerindustrietechnologie "Orbital-Lager" generiert werden. Leider führt dies dazu, dass der Output der Astronauten mit "0 pro Minute" angezeigt wird. Dies ist nur ein optisches Problem. Das Zentrum bildet immer noch 25 Astronauten pro vollem 10-Minuten-Zyklus bei 100% Produktivität aus. Die kumulierten Zahlen können pro Session im Tooltip der Orbitalstation auf der linken Seite deines Kontostandes eingesehen werden, sobald ein Trainingslager gebaut wurde. Dasselbe gilt für die Zeit bis zum nächsten Versorgungsflug zur Station. Dies ist nun exklusiv für die oben erwähnte Benutzeroberfläche.
 
 **Mars:** Aufgrund der Art und Weise, wie der Mars-Sektor als Teil der Mond-Region programmiert ist, ergeben sich hieraus einige spezielle Probleme:
 
