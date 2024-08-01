@@ -28,11 +28,11 @@
 - Die Jahreszeit Winter hat die Eigenart, dass der Effekt doppelt appliziert wird. Ich habe daher die Wert so angepasst, dass dies berücksichtigt wird. Solltet ihr im Winter das Spiel beenden und neu starten, wird der (De-)Buff nur ca. halb so stark ausfallen wie zuvor.
 - Wenn man die Quest "Geo-Engineering" auf dem Mars verwendet, kann das Skript zufällig die gleiche Eigenschaft auswählen, die bereits aktiv ist. Dies führt dazu, dass der Sektor seine Eigenschaft komplett verliert. In diesem Fall könnt ihr die Konsole benutzen, um den Effekt wieder zu bekommen. Die GUIDs können [hier](/de/Anno2205/SectorTraits.md) gefunden werden. Als erstes müsst ihr den Mars-Sektor betreten. Drückt dann Shift+F1, um die Konsole zu öffnen und gebt `debug.toggleSectorEffect(GUID)` mit der entsprechenden GUID des gewünschten Traits ein. Drückt Enter und schließt die Konsole wieder mit Shift+F1.
 - Manchmal können die Effekte der Mars-Jahreszeiten zufällig auf dem Mond auftreten. Dies ist ein Problem, da sie sehr lange andauern und nicht durch eine Quest gelöst werden können. Auch hier müsst ihr die Konsole benutzen, um sie loszuwerden. Betretet zunächst die betreffende Mond-Session. Drückt nun Shift+F1, um die Konsole zu öffnen und gebt `debug.toggleSectorEffect(GUID)` ein. Ersetzt nun den Platzhalter „GUID“ durch die entsprechende GUID des gerade aktiven Jahreszeiteneffekts (siehe unten). Drückt die Enter-Taste und schließt die Konsole wieder mit Shift+F1. Der Effekt sollte nun verschwunden sein.
-- Sometimes, Martian Season effects can end up mismatched with the current season quest. If you currently suffer from mismatched season effect to the shown season quest in the quest tracker on the left side of the screen, you have to use the console to fix this:
+- Manchmal kann es vorkommen, dass die Effekte der Mars-Saison nicht mit der aktuellen Saison-Quest übereinstimmen. Wenn die Saison-Effekte nicht mit der angezeigten Saison-Quest im Quest-Tracker auf der linken Seite des Bildschirms übereinstimmen, muss die Konsole verwendet werden, um dies zu beheben:
 > 1. Drücke Shift+F1, um die Konsole zu öffnen.
 > 2. Gib ein (ohne Tippfehler, achte auf Groß- und Kleinschreibung!), ersetze "CurrentSeasonGUID" mit der korrekten Zahl aus der Tabelle unten:
 `debug.startSectorEffect(CurrentSeasonGUID,19990093)`
-> 3. Drücke die Eingabetaste
+> 3. Drücke die Eingabetaste.
 > 4. Gib ein (ohne Tippfehler, achte auf Groß- und Kleinschreibung!), , ersetze "CorrectSeasonGUID" mit der korrekten Zahl aus der Tabelle unten:
 `debug.startSectorEffect(CorrectSeasonGUID,19990093)`
 > 5. Drücke Shift+F1, um die Konsole zu schließen.
@@ -41,3 +41,10 @@
   |Jahreszeit|Sommer|Herbst|Winter|Frühling|
   |---|---|---|---|---|
   |GUID|19990307|19990378|19990370|19990374|
+
+- Manchmal buggen Drakes Invasionen, nachdem der Mars freigeschaltet wurde. Anscheinend versucht er, dort einzumarschieren(?) (was nicht möglich ist, weil es dort offensichtlich kein Meer gibt, auf das er seine Schiffe setzen könnte). Die Questbeschreibung enthält nicht den üblichen Sektornamen, und die Questdetails zeigen die Anforderung, -1/1 Schiffe zu zerstören, und keine Invasionstruppe ist in irgendeinem Sektor, um sie zu besiegen. Manchmal schließt sich die Quest jedoch automatisch ab, wenn man den "richtigen" Sektor betritt (der nicht logisch ableitbar ist). Wenn das passiert, ist es am besten, diese Invasionsquest über die Konsole zu beenden, um möglichen Schaden zu vermeiden: 
+> 1. Wähle die Quest in der Übersicht an (aktive Quest, die alle Details anzeigt).
+> 2. Drücke Shift+F1, um die Konsole zu öffnen.
+> 3. Gebe `quests.reachSelectedQuest()` ein und drücke die Eingabetaste.
+> 4. Die Quest sollte beendet werden. Schließe die Konsole wieder mit Shift+F1.
+
