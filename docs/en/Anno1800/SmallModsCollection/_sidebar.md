@@ -1,5 +1,6 @@
 - [Taludas' Mods - About me](/en/README.md)
 - [Anno 1800 Mods](/en/Anno1800/Anno1800.md)
+  - [Noblesse Oblige](/en/Anno1800/NoblesseOblige/NoblesseOblige.md)
   - [New World Expanded Mod Collection](/en/Anno1800/NWExpanded/NWExpanded.md)
   - [River Slots](/en/Anno1800/RiverSlots/RiverSlots.md)
   - [Hacienda Overhaul](/en/Anno1800/HaciendaOverhaul/HaciendaOverhaul.md)

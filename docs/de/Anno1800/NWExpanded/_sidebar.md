@@ -1,5 +1,6 @@
 - [Taludas' Mods - About me](/de/README.md)
 - [Anno 1800 Mods](/de/Anno1800/Anno1800.md)
+  - [Noblesse Oblige](/de/Anno1800/NoblesseOblige/NoblesseOblige.md)
   - [New World Expanded Mod Collection](/de/Anno1800/NWExpanded/NWExpanded.md)
     - [Colossus of the New World](/de/Anno1800/NWExpanded/ColossusoftheNewWorld.md)
     - [Muddy Rivers Removed](/de/Anno1800/NWExpanded/MuddyRiversRemoved.md)
