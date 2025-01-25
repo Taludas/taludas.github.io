@@ -2,7 +2,7 @@
 
 <div align=center><img src="_media/Anno1800/mod_banners/souvenirs/banner.png"/></div>
 
-<div align=center><a href="https://g-4169.modapi.io/v1/games/4169/mods/3228029/files/4130117/download"> <font size="40">Jetzt herunterladen</font></a></div>
+<div align=center><a href="https://github.com/Taludas/GameplayModsCollection/releases/latest/download/HighLifeSouvenirs.zip"> <font size="40">Download now</font></a></div>
 
 After the introduction of the first form of modern era Plastics in the DLC 'High Life', the Production Chain for Souvenirs felt a little lackluster. Obviously the use of Campher Wax and Cotton resembled the ingredients of celluloid plastic. But why use this anymore after the introduction of the celluloid ware with High Life?
 

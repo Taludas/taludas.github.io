@@ -2,7 +2,7 @@
 
 <div align=center><img src="_media/Anno1800/mod_banners/smallmodscollection/banner3.png"/></div>
 
-<div align=center><a href="https://g-4169.modapi.io/v1/games/4169/mods/3227708/files/4129659/download"> <font size="40">Download now</font></a></div>
+<div align=center><a href="https://github.com/Taludas/SmallModsCollection/releases/latest/download/HighlifeGoodsFix.zip"> <font size="40">Download now</font></a></div>
 
 This mod is not really made by request, but by an idea from Wiesl in the Ubisoft Discussion Forum. His post inspired me to adjust some of the highlife goods and features for better integration with tourist season and other DLC.
 

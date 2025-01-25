@@ -2,7 +2,7 @@
 
 <div align=center><img src="_media/Anno1800/mod_banners/NWExpanded/thumbnail.png"/></div>
 
-<div align=center><a href="https://g-4169.modapi.io/v1/games/4169/mods/3227075/files/4216589/download"> <font size="40">Jetzt herunterladen</font></a></div>
+<div align=center><a href="https://github.com/Taludas/NewWorldExpanded/releases/latest/download/NewWorldExpanded.zip"> <font size="40">Jetzt herunterladen</font></a></div>
 
 
 <div align=center><img src="_media/Anno1800/mod_banners/NWExpanded/banner1.png"/></div>

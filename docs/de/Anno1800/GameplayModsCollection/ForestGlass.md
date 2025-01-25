@@ -2,7 +2,7 @@
 
 <div align=center><img src="_media/Anno1800/mod_banners/forestglass/banner.png"/></div>
 
-<div align=center><a href="https://g-4169.modapi.io/v1/games/4169/mods/3229520/files/4132251/download"> <font size="40">Download now</font></a></div>
+<div align=center><a href="https://github.com/Taludas/GameplayModsCollection/releases/latest/download/ForestGlass.zip"> <font size="40">Jetzt herunterladen</font></a></div>
 
 Waldglas ist eine Glasart, die im späten Mittelalter und in der frühen Neuzeit in Europa, insbesondere in Deutschland und Böhmen, hergestellt wurde. Es zeichnet sich durch seine ausgeprägte grüne Farbe aus und weist oft eine leicht grobe oder ungleichmäßige Textur auf.
 

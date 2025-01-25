@@ -4,7 +4,7 @@
 src="https://www.youtube.com/embed/odpBxzA1n3Y">
 </iframe>
 
-<div align=center><a href="https://g-4169.modapi.io/v1/games/4169/mods/3529960/files/4921151/download"> <font size="40">Download now</font></a></div>
+<div align=center><a href="https://github.com/Taludas/NewWorldExpanded/releases/latest/download/Mayabeque.zip"> <font size="40">Download now</font></a></div>
 
 Follow Vasco Oliveira into the lands of his former colonial administration! After his humiliating defeat in Crown Falls and his rehabilitation in the "Season of Silver", he now seeks revenge on his former master: King Joao of La Corona. As the previous events have taken their toll on his constitution, he asks you for help: accept his invitation and find a way to the forgotten colony settlements of Mayabeque (Pronounced "Majabek"). Support him in his endeavour to lead the diminished colonial power to new glory! But be careful, your journey may not go unnoticed and not everyone will support your plans for the lands of Mayabeque...
 

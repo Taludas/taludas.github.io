@@ -2,7 +2,7 @@
 
 <div align=center><img src="_media/Anno1800/mod_banners/arcticcaptains/Banner.png"/></div>
 
-<div align=center><a href="https://g-4169.modapi.io/v1/games/4169/mods/3230093/files/4133053/download"> <font size="40">Jetzt herunterladen</font></a></div>
+<div align=center><a href="https://github.com/Taludas/GameplayModsCollection/releases/latest/download/ArcticCaptains.zip"> <font size="40">Jetzt herunterladen</font></a></div>
 
 Diese Mod fügt 6 neue Kapitäne hinzu, die eure Luftschiffe kommandieren können, sowie einen neuen Spezialisten für das Schrottbergeschiff. Die Items sind nur in der Arktis verfügbar, können aber auch für eure neuen und glänzenden Aluminium-Luftschiffe aus der Neuen Welt verwendet werden!
 

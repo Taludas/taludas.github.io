@@ -2,7 +2,7 @@
 
 <div align=center><img src="_media/Anno1800/mod_banners/smallmodscollection/banner13.png"/></div>
 
-<div align=center><a href="https://g-4169.modapi.io/v1/games/4169/mods/3227856/files/4946872/download"> <font size="40">Jetzt herunterladen</font></a></div>
+<div align=center><a href="https://github.com/Taludas/SmallModsCollection/releases/latest/download/CombinedCustomizableResearchAndItemsMod.zip"> <font size="40">Jetzt herunterladen</font></a></div>
 
 Diese Mod kombiniert eines der am meisten erwarteten QoL-Updates seit der Veröffentlichung von Anno 1800 bezüglich des Item-Gameplays - zumindest für mich - mit einem vollständig anpassbaren Forschungsinstitut. Diese Mod ist dafür gedacht, über den [iModYourAnno Mod Manager](https://github.com/anno-mods/iModYourAnno/releases) angepasst zu werden. Andernfalls erhältst du Vanilla-Werte für alle Features, die das Forschungsinstitut betreffen.
 

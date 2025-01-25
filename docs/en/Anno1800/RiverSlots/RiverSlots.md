@@ -2,7 +2,7 @@
 
 <div align=center><img src="_media/Anno1800/mod_banners/RiverSlots/thumbnail.png"/></div>
 
-<div align=center><a href="https://github.com/Taludas/RiverSlots/releases/latest/download/RiverSlots_v2.0.2.zip"> <font size="40">Download now</font></a></div>
+<div align=center><a href="https://github.com/Taludas/RiverSlots/releases/latest/download/RiverSlots_combined.zip"> <font size="40">Download now</font></a></div>
 
 If you like this mod and want to support me, feel free to share it with your friends. You can also buy me a coffee at Ko-Fi!
 

@@ -2,7 +2,7 @@
 
 <div align=center><img src="_media/Anno1800/mod_banners/arcticcaptains/Banner.png"/></div>
 
-<div align=center><a href="https://g-4169.modapi.io/v1/games/4169/mods/3230093/files/4133053/download"> <font size="40">Download now</font></a></div>
+<div align=center><a href="https://github.com/Taludas/GameplayModsCollection/releases/latest/download/ArcticCaptains.zip"> <font size="40">Download now</font></a></div>
 
 This mod adds 6 new Captains to command your Airships and one new specialist for the Salvager. The Items are only available in the Arctic, but can fit your new and shiny aluminium ariships from the New World as well!
 

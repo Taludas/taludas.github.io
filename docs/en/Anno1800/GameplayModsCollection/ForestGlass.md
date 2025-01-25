@@ -2,7 +2,7 @@
 
 <div align=center><img src="_media/Anno1800/mod_banners/forestglass/banner.png"/></div>
 
-<div align=center><a href="https://g-4169.modapi.io/v1/games/4169/mods/3229520/files/4132251/download"> <font size="40">Jetzt herunterladen</font></a></div>
+<div align=center><a href="https://github.com/Taludas/GameplayModsCollection/releases/latest/download/ForestGlass.zip"> <font size="40">Download now</font></a></div>
 
 Also known as Waldglas in German, refers to a type of glass that was produced during the late medieval and early modern periods in Europe, particularly in the regions of Germany and Bohemia. It is characterized by its distinct green color and often exhibits a slightly crude or uneven texture.
 

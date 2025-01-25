@@ -2,7 +2,7 @@
 
 <div align=center><img src="_media/Anno1800/mod_banners/museumzoobotanicalgardeninenbesa/Banner.png"/></div>
 
-<div align=center><a href="https://g-4169.modapi.io/v1/games/4169/mods/3228007/files/4866876/download"> <font size="40">Download now</font></a></div>
+<div align=center><a href="https://github.com/Taludas/GameplayModsCollection/releases/latest/download/MuseumZooBotanicalGardenInEnbesa.zip"> <font size="40">Jetzt herunterladen</font></a></div>
 
 Bring etwas Kultur in deine Kolonie! Errichte einen Zoo, ein Museum und einen botanischen Garten im Land der Löwen, um einige nette Bonuseffekte zu erhalten und deine Siedlung zu verschönern!
 

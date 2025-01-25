@@ -2,7 +2,7 @@
 
 <div align=center><img src="_media/Anno1800/mod_banners/haciendaoverhaul/Thumbnail.png"/></div>
 
-<div align=center><a href="https://g-4169.modapi.io/v1/games/4169/mods/3226552/files/4514499/download"> <font size="40">Download now</font></a></div>
+<div align=center><a href="https://github.com/Taludas/WholesomeHaciendaHaul/releases/latest/download/WholesomeHaciendaHaul.zip"> <font size="40">Download now</font></a></div>
 
 This is a modular overhaul of the DLC10 Seeds of Change which touches nearly every aspect of newly introduced gameplay into the sandbox mod. Pick and choose which changes you like the most!
 

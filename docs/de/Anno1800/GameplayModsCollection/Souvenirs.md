@@ -2,7 +2,7 @@
 
 <div align=center><img src="_media/Anno1800/mod_banners/souvenirs/banner.png"/></div>
 
-<div align=center><a href="https://g-4169.modapi.io/v1/games/4169/mods/3228029/files/4130117/download"> <font size="40">Download now</font></a></div>
+<div align=center><a href="https://github.com/Taludas/GameplayModsCollection/releases/latest/download/HighLifeSouvenirs.zip"> <font size="40">Jetzt herunterladen</font></a></div>
 
 Nach der Einführung der ersten Form des modernen Plastiks im DLC 'High Life' fühlte sich die Produktionskette für Souvenirs ein wenig glanzlos an. Offensichtlich ähnelte die Verwendung von Kampferwachs und Baumwolle den Bestandteilen von Zelluloid-Kunststoff. Aber warum sollte man das nach der Einführung der Zelluloidware mit High Life noch verwenden?
 

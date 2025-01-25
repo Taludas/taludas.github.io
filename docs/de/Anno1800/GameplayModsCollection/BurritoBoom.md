@@ -2,7 +2,7 @@
 
 <div align=center><img src="_media/Anno1800/mod_banners/burritoboom/banner.png"/></div>
 
-<div align=center><a href="https://g-4169.modapi.io/v1/games/4169/mods/3230077/files/4512570/download"> <font size="40">Jetzt herunterladen</font></a></div>
+<div align=center><a href="https://github.com/Taludas/GameplayModsCollection/releases/latest/download/BurritoBoom.zip"> <font size="40">Jetzt herunterladen</font></a></div>
 
 Lust auf eine geschmacksintensive Fiesta für deine Geschmacksknospen? Dann sind diese brutzelnden, köstlichen Burritos genau das Richtige für dich!
 

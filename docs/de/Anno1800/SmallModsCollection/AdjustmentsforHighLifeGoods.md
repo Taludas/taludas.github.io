@@ -2,7 +2,7 @@
 
 <div align=center><img src="_media/Anno1800/mod_banners/smallmodscollection/banner3.png"/></div>
 
-<div align=center><a href="https://g-4169.modapi.io/v1/games/4169/mods/3227708/files/4129659/download"> <font size="40">Jetzt herunterladen</font></a></div>
+<div align=center><a href="https://github.com/Taludas/SmallModsCollection/releases/latest/download/HighlifeGoodsFix.zip"> <font size="40">Jetzt herunterladen</font></a></div>
 
 Diese Mod ist nicht wirklich auf Wunsch entstanden, sondern vielmehr durch eine Idee von Wiesl im Ubisoft Diskussionsforum. Sein Beitrag hat mich dazu inspiriert, einige der Highlife-Waren und -Features anzupassen, um sie besser in die Touristen-DLC Mechaniken und andere DLCs zu integrieren.
 

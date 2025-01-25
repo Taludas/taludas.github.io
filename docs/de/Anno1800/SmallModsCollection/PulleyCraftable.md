@@ -2,7 +2,7 @@
 
 <div align=center><img src="_media/Anno1800/mod_banners/smallmodscollection/banner4.png"/></div>
 
-<div align=center><a href="https://g-4169.modapi.io/v1/games/4169/mods/3227556/files/4129463/download"> <font size="40">Jetzt herunterladen</font></a></div>
+<div align=center><a href="https://github.com/Taludas/SmallModsCollection/releases/latest/download/ParticularlyPull-yPulleyCraftableAtN8.zip"> <font size="40">Jetzt herunterladen</font></a></div>
 
 Ermöglicht das Herstellen des einzigartigen Items beim Alten N8 in der Arktischen Region. Der Preis dafür ist allerdings ziemlich hoch! Seid also vorbereitet!
 

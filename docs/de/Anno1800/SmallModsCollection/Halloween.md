@@ -2,7 +2,7 @@
 
 <div align=center><img src="_media/Anno1800/mod_banners/smallmodscollection/banner11.png"/></div>
 
-<div align=center><a href="https://g-4169.modapi.io/v1/games/4169/mods/3227364/files/4129227/download"> <font size="40">Jetzt herunterladen</font></a></div>
+<div align=center><a href="https://github.com/Taludas/SmallModsCollection/releases/latest/download/HalloweenDecorations.zip"> <font size="40">Jetzt herunterladen</font></a></div>
 
 Mrkoekie (Ricky auf Mod-Discord) und Taludas präsentieren: Das Halloween-Deko-Paket!
 

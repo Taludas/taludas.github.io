@@ -2,7 +2,7 @@
 
 <div align=center><img src="_media/Anno1800/mod_banners/glasshousesfororchids/banner.png"/></div>
 
-<div align=center><a href="https://g-4169.modapi.io/v1/games/4169/mods/3229485/files/4516409/download"> <font size="40">Jetzt herunterladen</font></a></div>
+<div align=center><a href="https://github.com/Taludas/GameplayModsCollection/releases/latest/download/GlasshousesForOrchidFarms.zip"> <font size="40">Download now</font></a></div>
 
 This little mod changes the not very accurate farm fields of the Orchid Farm to one that actually could make sense. Orchids are usually parasitic plants, growing on trees. So them growing in plain farming soil is not really close to reality. Also the usage of a Tractor to harvest the Orchids is as sensitive as the use of a chainsaw on those precious plants.
 

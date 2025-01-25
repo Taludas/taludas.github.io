@@ -2,7 +2,7 @@
 
 <div align=center><img src="_media/Anno1800/mod_banners/glasshousesfororchids/banner.png"/></div>
 
-<div align=center><a href="https://g-4169.modapi.io/v1/games/4169/mods/3229485/files/4516409/download"> <font size="40">Download now</font></a></div>
+<div align=center><a href="https://github.com/Taludas/GameplayModsCollection/releases/latest/download/GlasshousesForOrchidFarms.zip"> <font size="40">Jetzt herunterladen</font></a></div>
 
 Diese kleine Mod verändert die nicht sehr akkuraten Farmfelder der Orchideenfarm in eine, die tatsächlich Sinn machen könnte. Orchideen sind normalerweise parasitäre Pflanzen, die auf Bäumen wachsen. Daher ist es nicht wirklich realitätsnah, wenn sie in einfachem Ackerboden wachsen. Auch der Einsatz eines Traktors zur Orchideenernte ist genauso bedenklich wie der Einsatz einer Kettensäge an diesen kostbaren Pflanzen.
 

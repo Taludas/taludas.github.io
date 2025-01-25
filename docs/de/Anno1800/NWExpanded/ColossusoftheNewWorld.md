@@ -4,7 +4,7 @@
 src="https://www.youtube.com/embed/odpBxzA1n3Y">
 </iframe>
 
-<div align=center><a href="https://g-4169.modapi.io/v1/games/4169/mods/3529960/files/4921151/download"> <font size="40">Jetzt herunterladen</font></a></div>
+<div align=center><a href="https://github.com/Taludas/NewWorldExpanded/releases/latest/download/Mayabeque.zip"> <font size="40">Jetzt herunterladen</font></a></div>
 
 Folgt Vasco Oliveira in die Länder seiner ehemaligen Kolonialverwaltung! Nach seiner demütigenden Niederlage in Crown Falls und seiner Rehabilitierung im "Silbernen Käfig" sinnt er nun auf Rache an seinem ehemaligen Herrn: König Joao von La Corona. Da die vorangegangenen Ereignisse an seiner Verfassung gezehrt haben, bittet er euch um Hilfe: Nehmt seine Einladung an und findet einen Weg zu den vergessenen Kolonialgebieten von Mayabeque (sprich: "Majabek"). Unterstützt ihn in seinem Bestreben, die untergegangene Kolonialmacht zu neuem Ruhm zu führen! Aber sei vorsichtig, deine Reise könnte nicht unbemerkt bleiben und nicht jeder wird deine Pläne für die Ländereien von Mayabeque unterstützen...
 

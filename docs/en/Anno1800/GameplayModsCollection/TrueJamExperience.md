@@ -2,7 +2,7 @@
 
 <div align=center><img src="_media/Anno1800/mod_banners/jam/banner.png"/></div>
 
-<div align=center><a href="https://g-4169.modapi.io/v1/games/4169/mods/3227916/files/4885231/download"> <font size="40">Jetzt herunterladen</font></a></div>
+<div align=center><a href="https://github.com/Taludas/GameplayModsCollection/releases/latest/download/TheTrueJamExperience.zip"> <font size="40">Download now</font></a></div>
 
 Ever wondered why Jam grows directly on trees in Anno 1800?
 

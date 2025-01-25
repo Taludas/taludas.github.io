@@ -2,7 +2,7 @@
 
 <div align=center><img src="_media/Anno1800/mod_banners/smallmodscollection/banner21.png"/></div>
 
-<div align=center><a href="https://g-4169.modapi.io/v1/games/4169/mods/4062238/files/5215461/download"> <font size="40">Download now</font></a></div>
+<div align=center><a href="https://github.com/Taludas/SmallModsCollection/releases/latest/download/EasyPost.zip"> <font size="40">Download now</font></a></div>
 
 A mod to ease up the Mail gameplay a little bit:
 

@@ -2,7 +2,7 @@
 
 <div align=center><img src="_media/Anno1800/mod_banners/coffeetobaccoinenbesa/banner.png"/></div>
 
-<div align=center><a href="https://g-4169.modapi.io/v1/games/4169/mods/3229533/files/4921152/download"> <font size="40">Download now</font></a></div>
+<div align=center><a href="https://github.com/Taludas/GameplayModsCollection/releases/latest/download/CoffeeAndTobaccoInEnbesa.zip"> <font size="40">Download now</font></a></div>
 
 This mod enables you to plant Coffee and Tobacco in Enbesa and modifies the Coffee Production chain.
 Coffee and Tobacco fertility are distributed on Enbesan Islands at the Game Start. So if you want the fertility on the whole island, you have to start a new game.

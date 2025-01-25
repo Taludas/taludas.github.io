@@ -2,7 +2,7 @@
 
 <div align=center><img src="_media/Anno1800/mod_banners/alkaloidcollection/banner.png"/></div>
 
-<div align=center><a href="https://g-4169.modapi.io/v1/games/4169/mods/3227979/files/4866880/download"> <font size="40">Jetzt herunterladen</font></a></div>
+<div align=center><a href="https://github.com/Taludas/GameplayModsCollection/releases/latest/download/TheAlkaloidCollection.zip"> <font size="40">Jetzt herunterladen</font></a></div>
 
 Hast du die typischen pflanzlichen Konsumgüter des 19. Jahrhunderts vermisst? Such nicht weiter, ich habe dir wenigstens die Pflanzen besorgt!
 

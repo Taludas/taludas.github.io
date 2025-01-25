@@ -2,7 +2,7 @@
 
 <div align=center><img src="_media/Anno1800/mod_banners/coffeetobaccoinenbesa/banner.png"/></div>
 
-<div align=center><a href="https://g-4169.modapi.io/v1/games/4169/mods/3229533/files/4921152/download"> <font size="40">Jetzt herunterladen</font></a></div>
+<div align=center><a href="https://github.com/Taludas/GameplayModsCollection/releases/latest/download/CoffeeAndTobaccoInEnbesa.zip"> <font size="40">Jetzt herunterladen</font></a></div>
 
 Diese Mod ermöglicht den Anbau von Kaffee und Tabak in Enbesa und modifiziert die Kaffeeproduktionskette.
 Die Kaffee- und Tabakfruchtbarkeit wird beim Spielstart auf den Enbesa-Inseln verteilt. Wenn du also Fruchtbarkeit auf der ganzen Insel haben willst, musst du ein neues Spiel beginnen.

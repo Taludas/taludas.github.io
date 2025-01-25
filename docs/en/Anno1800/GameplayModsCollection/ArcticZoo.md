@@ -2,7 +2,7 @@
 
 <div align=center><img src="_media/Anno1800/mod_banners/arcticzoo/banner.png"/></div>
 
-<div align=center><a href="https://g-4169.modapi.io/v1/games/4169/mods/3227952/files/4130017/download"> <font size="40">Download now</font></a></div>
+<div align=center><a href="https://github.com/Taludas/GameplayModsCollection/releases/latest/download/TheArcticZoo.zip"> <font size="40">Download now</font></a></div>
 
 Build a Zoo in the Arctic. Display local animals that are suited for the rough climate. Get unique bonuses from these sets.
 
