@@ -4,6 +4,8 @@
 src="https://www.youtube.com/embed/dLBnrNJprCk">
 </iframe>
 
+<div align=center><a href="https://github.com/Taludas/Anno2205-NewFrontiers/releases/latest/download/Anno2205_NewFrontiers.zip"> <font size="40">Jetzt herunterladen</font></a></div>
+
 Wir schreiben das Jahr 2205.
 
 Ihr habt eines der erfolgreichsten Unternehmen aller Zeiten gegründet. Eure Städte wachsen rapide und mit ihnen der Bedarf an Ressourcen und Bauplatz.

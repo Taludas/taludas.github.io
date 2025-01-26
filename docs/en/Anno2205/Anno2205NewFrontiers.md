@@ -4,6 +4,8 @@
 src="https://www.youtube.com/embed/dLBnrNJprCk">
 </iframe>
 
+<div align=center><a href="https://github.com/Taludas/Anno2205-NewFrontiers/releases/latest/download/Anno2205_NewFrontiers.zip"> <font size="40">Download now</font></a></div>
+
 The Year is 2205.
 
 You have created one of the most successful corporations ever. Your cities are continuing to grow rapidly and so do their resource and space requirements.
