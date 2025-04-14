@@ -11,8 +11,8 @@
  - Ko-fi Website: [Taludas](https://ko-fi.com/taludas)
 
  **<font color="#F37313"> Jonas Bredenstein </font>** <br>
- ***<font color="#EAEAEA"> Vitusplatz 10 </font>*** <br>
- ***<font color="#EAEAEA"> 33142 Büren </font>***
+ ***<font color="#EAEAEA"> Westernkötter Str. 2a </font>*** <br>
+ ***<font color="#EAEAEA"> 59597 Erwitte </font>***
 
  E-Mail: taludas@yahoo.com
 
