@@ -33,6 +33,8 @@ Flussfischerei (50 Bauern)
 Fluss-Lehmsammler (1 Arbeiter)
 Fluss-Sägemühle (1 Handwerker)
 Fluss-Mehlmühle (1 Handwerker)
+Fluss-Quarzgrube (1 Handwerker)
+Fluss-Papiermühle (1500 Handwerker)
 Flusskraftwerk (1 Ingenieur)
 Mit iMYA könnt ihr einstellen, mit welchen Gebäuden ihr spielen möchtet.
 
